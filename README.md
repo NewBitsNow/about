@@ -1,3 +1,2 @@
-# About
-NewBitsNow LLC
+# NewBitsNow LLC
 
