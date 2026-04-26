@@ -1,2 +1,3 @@
-# website
-NewBitsNow LLC Website
+# About
+NewBitsNow LLC
+
