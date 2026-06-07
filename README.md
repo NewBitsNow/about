@@ -16,7 +16,7 @@ Legal Name: NewBitsNow LLC
 
 State of Formation: Washington
 
-Established: 6-02-2025
+Established: June 02, 2025
 
 Contact: contact@newbitsnow.com
 
