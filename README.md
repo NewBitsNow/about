@@ -9,6 +9,7 @@ Affiliated Operating Brands
     Unfitware (DBA)
     Unfitworld (DBA)
     Nullohm (DBA)
+    EventBuzza (DBA)
 
 Purpose
 
