@@ -1,6 +1,6 @@
 # NewBitsNow LLC
 
-NewBitsNow LLC is a Washington-based limited liability company that provides internal business administration, asset management, and shared services for affiliated operating brands.
+NewBitsNow LLC is a limited liability company based in Washington State that provides technology, asset management, and shared services for clients and affiliated operating brands.
 
 The company is not customer-facing and does not solicit business directly from the public.
 Affiliated Operating Brands
@@ -11,6 +11,7 @@ Affiliated Operating Brands
     Nullohm (DBA)
     EventBuzza (DBA)
     Durbon (DBA)
+    NiemiTech (DBA)
 
 Purpose
 
