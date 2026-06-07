@@ -1,9 +1,10 @@
 # NewBitsNow LLC
 
-NewBitsNow LLC is a limited liability company based in Washington State that provides technology, asset management, and shared services for clients and affiliated operating brands.
+NewBitsNow LLC is a limited liability company based in Washington State that provides technology based research and development, shared services associated affiliate tradenames, and consulting.
 
-The company is not customer-facing and does not solicit business directly from the public.
-Affiliated Operating Brands
+The company is not customer-facing and does not solicit business directly from the general public.
+
+Public facing affiliated operating brands and tradenames:
 
     Sound Stability Property Services (DBA)
     Unfitware (DBA)
@@ -13,13 +14,15 @@ Affiliated Operating Brands
     Durbon (DBA)
     NiemiTech (DBA)
 
-Purpose
+# Purpose
 
-NewBitsNow LLC exists to centralize administrative functions, reduce operational complexity, and provide a stable legal and financial wrapper for its affiliated activities.
+NewBitsNow LLC is a technology based research and development and services company. 
 
 Legal Name: NewBitsNow LLC
 
 State of Formation: Washington
+
+Established: 6-02-2025
 
 Contact: contact@newbitsnow.com
 
