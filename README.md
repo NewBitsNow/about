@@ -10,6 +10,7 @@ Affiliated Operating Brands
     Unfitworld (DBA)
     Nullohm (DBA)
     EventBuzza (DBA)
+    Durbon (DBA)
 
 Purpose
 
