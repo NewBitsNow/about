@@ -1,6 +1,4 @@
-# NewBitsNow LLC
-
-NewBitsNow LLC is a limited liability company based in Washington State that provides technology based research and development, shared services associated affiliate tradenames, and consulting.
+NewBitsNow LLC is a limited liability technology company based in Washington State that provides software development, shared infrastructure, and consulting services to associated affiliates.
 
 The company is not customer-facing and does not solicit business directly from the general public.
 
@@ -13,10 +11,6 @@ Public facing affiliated operating brands and tradenames:
     EventBuzza (DBA)
     Durbon (DBA)
     NiemiTech (DBA)
-
-# Purpose
-
-NewBitsNow LLC is a technology based research and development and services company. 
 
 Legal Name: NewBitsNow LLC
 
